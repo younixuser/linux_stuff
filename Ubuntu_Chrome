@@ -1,5 +1,5 @@
 
-Install Google Chrome Stable on Ubuntu.
+Install Google Chrome Stable on Ubuntu also works on Debian and Linux Mint.
 
 Copy and paste each line in the terminal waiting for each process to finish first.
 
@@ -8,3 +8,5 @@ Copy and paste each line in the terminal waiting for each process to finish firs
 2. sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 3. sudo apt-get -f install 
+
+Enjoy your newly installed Web Browser.
